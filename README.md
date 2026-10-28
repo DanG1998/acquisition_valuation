@@ -78,8 +78,8 @@ The target appears **overvalued in every scenario**. This does not mean the comp
 ## Repository structure
 
 ```
-├── DEFINITIVO.py            # full pipeline for both questions
-├── report.pdf               # final report (in Italian)
+├── time_series_valuation.py     # full pipeline for both questions
+├── report.pdf                   # final report (in Italian)
 └── README.md
 ```
 

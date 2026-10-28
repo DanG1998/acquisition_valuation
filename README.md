@@ -1,4 +1,4 @@
-# Defense Acquisition Valuation
+# Acquisition Valuation
 
 Should an Italian company acquire a competitor in the defense sector at the current market price of **€49 per share**?
 
